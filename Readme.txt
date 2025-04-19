@@ -1,1 +1,1 @@
-Please make a folder name apikey and store your "OPEN API KEY"
+Please add your API key at "OPEN API KEY"
